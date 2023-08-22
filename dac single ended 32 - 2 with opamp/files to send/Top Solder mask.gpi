@@ -1,0 +1,50 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/dac single ended 32 - 2 with opamp/files to send/Top Solder mask.gpi
+
+ Date              : 12/17/2012 09:44:49a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/dac single ended 32 - 2 with opamp/files to send/Top Solder mask
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      oval      0.0600inch x 0.1120inch    56
+ D11      rectangle 0.0940inch x 0.0500inch     3
+ D12      rectangle 0.0631inch x 0.1458inch     1
+ D13      oval      0.0905inch x 0.1730inch    32
+ D14      rectangle 0.0710inch x 0.1615inch     2
+ D15      oval      0.1730inch x 0.0905inch    10
+ D16      oval      0.0680inch x 0.1280inch     3
+ D17      oval      0.1280inch x 0.0680inch     3
+ D18      rectangle 0.0631inch x 0.0789inch     8
+ D19      round     0.1340inch               4
+ D20      rectangle 0.0316inch x 0.0946inch     8
+ D21      oval      0.1120inch x 0.0600inch     6
+ D22      rectangle 0.0789inch x 0.0631inch     2
+ D23      round     0.0476inch               2
+

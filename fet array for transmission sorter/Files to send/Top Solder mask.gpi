@@ -1,0 +1,45 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/fet array for transmission sorter/Files to send/Top Solder mask.gpi
+
+ Date              :  5/20/2012 09:53:40a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/fet array for transmission sorter/Files to send/Top Solder mask
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      oval      0.0680inch x 0.1280inch     3
+ D11      rectangle 0.0867inch x 0.0710inch     6
+ D12      oval      0.1730inch x 0.0905inch     2
+ D13      oval      0.1497inch x 0.0789inch    16
+ D14      oval      0.1120inch x 0.0600inch    56
+ D15      oval      0.0789inch x 0.1497inch    16
+ D16      round     0.1340inch               4
+ D17      oval      0.1280inch x 0.0680inch    48
+ D18      square    0.0476inch              42
+

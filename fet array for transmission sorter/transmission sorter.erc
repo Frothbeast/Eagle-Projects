@@ -1,0 +1,13 @@
+EAGLE Version 4.13 Copyright (c) 1988-2004 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.13/projects/fet array for transmission sorter/transmission sorter.sch at  5/20/2012 09:40:30a
+
+WARNING: Sheet 1/1: POWER Pin IC1 V- connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 V+ connected to +12V
+WARNING: Sheet 1/1: POWER Pin IC2 V- connected to -12V
+WARNING: Sheet 1/1: POWER Pin IC2 V+ connected to +12V
+
+Board and schematic are consistent
+
+    0 errors
+    4 warnings

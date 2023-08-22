@@ -1,0 +1,63 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/TVMC/files to send/Bottom copper.gpi
+
+ Date              : 10/06/2009 07:34:34a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/TVMC/files to send/Bottom copper
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      rectangle 0.4250inch x 3.4000inch     1
+ D11      rectangle 0.2500inch x 0.6000inch     1
+ D12      rectangle 0.6750inch x 3.7000inch     1
+ D13      rectangle 0.4500inch x 2.3500inch     1
+ D14      oval      0.1200inch x 0.0600inch    44
+ D15      rectangle 0.1000inch x 0.2000inch    20
+ D16      square    0.2362inch              20
+ D17      oval      0.1650inch x 0.0825inch    40
+ D18      rectangle 0.0236inch x 0.0866inch     8
+ D19      rectangle 0.0709inch x 0.0551inch     8
+ D20      round     0.0520inch               2
+ D21      rectangle 0.0710inch x 0.0630inch     2
+ D22      rectangle 0.0630inch x 0.1063inch     2
+ D23      square    0.0515inch               2
+ D24      oval      0.0600inch x 0.1200inch     6
+ D25      oval      0.0825inch x 0.1650inch    10
+ D26      octagon   0.0520inch               4
+ D27      rectangle 0.0866inch x 0.0236inch     8
+ D28      draw      0.0500inch             112
+ D29      draw      0.1500inch             115
+ D30      draw      0.0700inch              35
+ D31      draw      0.0100inch               1
+ D32      draw      0.0320inch              41
+ D33      draw      0.0240inch              70
+ D34      round     0.0500inch              18
+ D35      draw      0.0660inch               2
+ D36      round     0.1000inch               8
+

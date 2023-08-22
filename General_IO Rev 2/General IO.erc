@@ -1,0 +1,15 @@
+EAGLE Version 4.13 Copyright (c) 1988-2004 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.13/projects/General_IO Rev 2/General IO.sch at  6/03/2010 11:06:19a
+
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin U$4 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin U$4 VCC connected to +5V
+WARNING: Sheet 1/1, Net N$87: missing Junction at (4 5)
+
+Board and schematic are consistent
+
+    0 errors
+    6 warnings

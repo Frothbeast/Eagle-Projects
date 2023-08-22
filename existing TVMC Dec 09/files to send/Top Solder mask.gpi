@@ -1,0 +1,61 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/TVMC/files to send/Top Solder mask.gpi
+
+ Date              : 10/06/2009 07:34:38a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/TVMC/files to send/Top Solder mask
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      rectangle 0.0940inch x 0.0500inch    33
+ D11      rectangle 0.0631inch x 0.1458inch    11
+ D12      oval      0.1280inch x 0.0680inch    44
+ D13      rectangle 0.0789inch x 0.0631inch    20
+ D14      oval      0.1730inch x 0.0905inch    40
+ D15      rectangle 0.0580inch x 0.0380inch    28
+ D16      rectangle 0.0710inch x 0.1143inch     8
+ D17      rectangle 0.0631inch x 0.0789inch    38
+ D18      rectangle 0.0434inch x 0.0651inch     2
+ D19      rectangle 0.0907inch x 0.0651inch     1
+ D20      rectangle 0.1143inch x 0.0710inch     8
+ D21      rectangle 0.2080inch x 0.0780inch     2
+ D22      round     0.0600inch               2
+ D23      rectangle 0.1615inch x 0.0710inch     4
+ D24      square    0.0595inch               2
+ D25      round     0.1340inch               4
+ D26      oval      0.0680inch x 0.1280inch     6
+ D27      oval      0.0905inch x 0.1730inch    10
+ D28      rectangle 0.0500inch x 0.0940inch     3
+ D29      rectangle 0.1458inch x 0.0631inch     1
+ D30      rectangle 0.0790inch x 0.0710inch     2
+ D31      octagon   0.0600inch               4
+ D32      rectangle 0.0710inch x 0.0790inch    20
+ D33      round     0.0580inch              18
+ D34      round     0.1080inch               8
+

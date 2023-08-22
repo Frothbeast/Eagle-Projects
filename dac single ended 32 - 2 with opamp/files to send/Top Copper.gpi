@@ -1,0 +1,50 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/dac single ended 32 - 2 with opamp/files to send/Top Copper.gpi
+
+ Date              : 12/17/2012 09:44:48a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/dac single ended 32 - 2 with opamp/files to send/Top Copper
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      oval      0.0520inch x 0.1040inch    56
+ D11      rectangle 0.0860inch x 0.0420inch     3
+ D12      rectangle 0.0551inch x 0.1378inch     1
+ D13      oval      0.0825inch x 0.1650inch    32
+ D14      rectangle 0.0630inch x 0.1535inch     2
+ D15      oval      0.1650inch x 0.0825inch    10
+ D16      oval      0.0600inch x 0.1200inch     3
+ D17      oval      0.1200inch x 0.0600inch     3
+ D18      rectangle 0.0551inch x 0.0709inch     8
+ D19      rectangle 0.0236inch x 0.0866inch     8
+ D20      oval      0.1040inch x 0.0520inch     6
+ D21      rectangle 0.0709inch x 0.0551inch     2
+ D22      draw      0.0240inch             237
+ D23      round     0.0396inch               2
+

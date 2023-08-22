@@ -1,0 +1,62 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/General_IO Rev 2/Files to send/Top Solder mask.gpi
+
+ Date              :  6/08/2010 08:39:30a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/General_IO Rev 2/Files to send/Top Solder mask
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.1000inch               1
+ D11      rectangle 0.0940inch x 0.0500inch    36
+ D12      rectangle 0.0631inch x 0.1458inch    12
+ D13      oval      0.1280inch x 0.0680inch    36
+ D14      rectangle 0.0789inch x 0.0631inch    28
+ D15      oval      0.1730inch x 0.0905inch    42
+ D16      rectangle 0.0580inch x 0.0380inch    28
+ D17      rectangle 0.2080inch x 0.0780inch     2
+ D18      rectangle 0.0631inch x 0.0789inch    84
+ D19      rectangle 0.1143inch x 0.0710inch    12
+ D20      round     0.0600inch               2
+ D21      rectangle 0.0710inch x 0.1143inch     8
+ D22      rectangle 0.1615inch x 0.0710inch     4
+ D23      square    0.0595inch               2
+ D24      round     0.1340inch               4
+ D25      oval      0.0680inch x 0.1280inch    30
+ D26      oval      0.0905inch x 0.1730inch    10
+ D27      rectangle 0.0500inch x 0.0940inch     3
+ D28      rectangle 0.1458inch x 0.0631inch     1
+ D29      rectangle 0.0790inch x 0.0710inch     2
+ D30      octagon   0.0600inch               4
+ D31      rectangle 0.0710inch x 0.0790inch    20
+ D32      rectangle 0.0316inch x 0.0946inch    16
+ D33      rectangle 0.0946inch x 0.0336inch    16
+ D34      round     0.0640inch              42
+ D35      round     0.1080inch               9
+

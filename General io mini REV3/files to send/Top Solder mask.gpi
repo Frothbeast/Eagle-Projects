@@ -1,0 +1,55 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/General io mini REV3/files to send/Top Solder mask.gpi
+
+ Date              :  5/23/2012 09:32:26a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/General io mini REV3/files to send/Top Solder mask
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      rectangle 0.0940inch x 0.0500inch    15
+ D11      rectangle 0.0631inch x 0.1458inch     5
+ D12      rectangle 0.0631inch x 0.0789inch    22
+ D13      oval      0.1730inch x 0.0905inch    22
+ D14      oval      0.0905inch x 0.1730inch    10
+ D15      rectangle 0.0780inch x 0.2080inch     2
+ D16      rectangle 0.1143inch x 0.0710inch     6
+ D17      oval      0.0680inch x 0.1280inch    20
+ D18      rectangle 0.0500inch x 0.0940inch     6
+ D19      rectangle 0.1458inch x 0.0631inch     2
+ D20      rectangle 0.0790inch x 0.0710inch     2
+ D21      round     0.1340inch               4
+ D22      octagon   0.0600inch              12
+ D23      rectangle 0.0710inch x 0.0790inch    10
+ D24      rectangle 0.0710inch x 0.1143inch     6
+ D25      rectangle 0.0789inch x 0.0631inch    52
+ D26      oval      0.1280inch x 0.0680inch    10
+ D27      draw      0.0050inch              84
+ D28      round     0.0476inch              60
+

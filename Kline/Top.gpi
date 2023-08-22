@@ -1,0 +1,47 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/Kline/Top.gpi
+
+ Date              :  2/18/2010 02:32:04p
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/Kline/Top
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      rectangle 0.0866inch x 0.0236inch    16
+ D11      rectangle 0.0420inch x 0.0860inch     3
+ D12      rectangle 0.1378inch x 0.0551inch     1
+ D13      oval      0.0600inch x 0.1200inch     7
+ D14      rectangle 0.0236inch x 0.0866inch     8
+ D15      rectangle 0.1142inch x 0.0591inch     8
+ D16      oval      0.1200inch x 0.0600inch     3
+ D17      octagon   0.0560inch               2
+ D18      rectangle 0.0591inch x 0.1142inch     4
+ D19      rectangle 0.1181inch x 0.0551inch     2
+ D20      draw      0.0240inch             189
+

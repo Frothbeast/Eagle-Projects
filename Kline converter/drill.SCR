@@ -1,0 +1,22 @@
+layer drillmill 112;
+display none drillmill;
+change layer drillmill;
+grid mm 0.635 lines on;
+change style continuous;
+change width 0.01;
+set undo_log off;
+circle (8.128 4.953) (8.236 4.953);
+circle (10.668 4.953) (10.776 4.953);
+circle (13.208 4.953) (13.316 4.953);
+circle (35.433 26.289) (35.541 26.289);
+circle (32.893 26.289) (33.001 26.289);
+circle (30.353 26.289) (30.461 26.289);
+circle (27.813 26.289) (27.921 26.289);
+circle (31.496 5.461) (31.604 5.461);
+circle (31.496 8.001) (31.604 8.001);
+circle (31.496 10.541) (31.604 10.541);
+circle (27.178 16.637) (27.235 16.637);
+circle (27.178 1.397) (27.235 1.397);
+optimize;
+grid last
+set undo_log on;

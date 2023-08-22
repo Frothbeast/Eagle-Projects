@@ -1,0 +1,16 @@
+EAGLE Version 4.13 Copyright (c) 1988-2004 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.13/projects/TVMC/TVMC.sch at  4/28/2009 11:07:37a
+
+WARNING: Sheet 1/1: POWER Pin INV-1-P VCC connected to +5V
+WARNING: No Pins on net N$2
+WARNING: No Pins on net N$5
+WARNING: No Pins on net N$6
+WARNING: No Pins on net N$7
+WARNING: No Pins on net N$8
+WARNING: Sheet 1/1, Net N$9: missing Junction at (4.5 6.6)
+
+Board and schematic are consistent
+
+    0 errors
+    7 warnings

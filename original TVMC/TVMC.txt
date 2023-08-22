@@ -1,0 +1,7 @@
+ Number of Pads:  10
+ Number of Vias:  7
+ Number of Smds:  46
+    Smds in Top:  46
+    Smds in Bot:  0
+ Number of holes: 4
+ Total number of drills: 21

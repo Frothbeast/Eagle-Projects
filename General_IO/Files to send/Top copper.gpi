@@ -1,0 +1,70 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/General_IO/Files to send/Top copper.gpi
+
+ Date              :  1/25/2010 01:58:56p
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/General_IO/Files to send/Top copper
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      rectangle 0.0860inch x 0.0420inch    33
+ D11      rectangle 0.0551inch x 0.1378inch    11
+ D12      oval      0.1200inch x 0.0600inch    44
+ D13      rectangle 0.0709inch x 0.0551inch    24
+ D14      oval      0.1650inch x 0.0825inch    42
+ D15      rectangle 0.0500inch x 0.0300inch    28
+ D16      rectangle 0.0630inch x 0.1063inch    18
+ D17      rectangle 0.0551inch x 0.0709inch    82
+ D18      rectangle 0.0354inch x 0.0571inch     2
+ D19      rectangle 0.0827inch x 0.0571inch     1
+ D20      rectangle 0.1063inch x 0.0630inch     8
+ D21      rectangle 0.2000inch x 0.0700inch     2
+ D22      round     0.0520inch               2
+ D23      rectangle 0.1535inch x 0.0630inch     4
+ D24      square    0.0515inch               2
+ D25      oval      0.0600inch x 0.1200inch    10
+ D26      oval      0.0825inch x 0.1650inch    10
+ D27      rectangle 0.0420inch x 0.0860inch     3
+ D28      rectangle 0.1378inch x 0.0551inch     1
+ D29      rectangle 0.0710inch x 0.0630inch     2
+ D30      octagon   0.0520inch               4
+ D31      rectangle 0.0630inch x 0.0710inch    20
+ D32      rectangle 0.0236inch x 0.0866inch    16
+ D33      draw      0.0240inch             165
+ D34      draw      0.0700inch               6
+ D35      draw      0.0400inch              16
+ D36      draw      0.0500inch             520
+ D37      draw      0.0100inch              10
+ D38      draw      0.0320inch             218
+ D39      round     0.0560inch              31
+ D40      round     0.1000inch               8
+ D41      draw      0.0660inch               5
+ D42      round     0.0396inch               1
+ D43      draw      0.0160inch               1
+

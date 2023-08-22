@@ -1,0 +1,66 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/TVMC/deletemeplease.gpi
+
+ Date              :  4/21/2009 10:17:03a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/TVMC/deletemeplease
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.0000inch              38
+ D11      rectangle 2.1000inch x 1.0000inch     1
+ D12      oval      0.0520inch x 0.1040inch    14
+ D13      draw      0.0050inch             498
+ D14      draw      0.0060inch             184
+ D15      oval      0.1200inch x 0.0600inch     6
+ D16      round     0.0200inch               2
+ D17      rectangle 0.0300inch x 0.4200inch     1
+ D18      rectangle 0.0200inch x 0.0750inch     2
+ D19      rectangle 0.0200inch x 0.0300inch     2
+ D20      rectangle 0.0200inch x 0.0700inch     6
+ D21      draw      0.0040inch              98
+ D22      rectangle 0.0500inch x 0.0750inch     2
+ D23      rectangle 0.0300inch x 0.0700inch     3
+ D24      rectangle 0.0500inch x 0.0300inch     2
+ D25      octagon   0.0630inch               2
+ D26      round     0.0630inch               2
+ D27      rectangle 0.1000inch x 0.0200inch     2
+ D28      octagon   0.0520inch               6
+ D29      draw      0.0120inch               4
+ D30      octagon   0.0560inch               6
+ D31      draw      0.0300inch               6
+ D32      rectangle 0.0300inch x 0.0550inch     2
+ D33      rectangle 0.0550inch x 0.0300inch     4
+ D34      draw      0.0080inch               2
+ D35      draw      0.0010inch              14
+ D36      oval      0.0825inch x 0.1650inch    10
+ D37      draw      0.0070inch             113
+ D38      draw      0.0500inch              48
+ D39      round     0.0400inch               7
+

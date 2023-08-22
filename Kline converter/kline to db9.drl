@@ -1,0 +1,43 @@
+(This GCode generated with nc-drill_gcode.ulp program)
+(running under Eagle CAD.)
+(Use with #60 bits)
+(X/Y/Z home should be at lower left corner of the board, with the tip homed with 0 being tip touching board)
+T01C0.040
+T02C0.036
+T03C0.126
+%
+G90
+M72
+M05
+M06 T0
+(Insert T01)
+M03
+G82 X0.320000Y0.195000 Z-0.08 F1.0 R0.1 #250
+G82 X0.420000Y0.195000 
+G82 X0.520000Y0.195000 
+G82 X1.395000Y1.035000 
+G82 X1.295000Y1.035000 
+G82 X1.195000Y1.035000 
+G82 X1.095000Y1.035000 
+G82 X1.240000Y0.215000 
+G82 X1.240000Y0.315000 
+G82 X1.240000Y0.415000 
+M05
+M06 T0
+(Insert T02)
+M03
+G82 X1.070000Y0.655000 Z-0.08 F1.0 R0.1 #250
+G82 X1.070000Y0.055000 
+M05
+M06 T0
+(Insert T03)
+M03
+G82 X0.180000Y1.320000 Z-0.08 F1.0 R0.1 #250
+G82 X1.190000Y1.320000 
+(drill hole here)
+do end stuff here.
+(Finished.  Raise cutter, turn spindle off, reset.)
+G0Z0.23
+M05
+G0X0Y0
+M30

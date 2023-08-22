@@ -1,0 +1,16 @@
+EAGLE Version 4.13 Copyright (c) 1988-2004 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.13/projects/dac single ended 32 - 2 with opamp/dac single ended 32-2.sch at 12/12/2012 08:17:35a
+
+WARNING: Sheet 1/1: SUPPLY Pin +5V overwritten with +VDD
+WARNING: Sheet 1/1: POWER Pin IC1 V- connected to -15V
+WARNING: Sheet 1/1: POWER Pin IC1 V+ connected to +VDD
+WARNING: Sheet 1/1: POWER Pin IC2 V- connected to -15V
+WARNING: Sheet 1/1: POWER Pin IC2 V+ connected to +VDD
+WARNING: Sheet 1/1: POWER Pin IC5P V+ connected to +VDD
+WARNING: Sheet 1/1: POWER Pin IC5P V- connected to -15V
+
+Board and schematic are consistent
+
+    0 errors
+    7 warnings

@@ -1,0 +1,39 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/General io mini REV2/Files to send/Drills.gpi
+
+ Date              :  3/04/2013 04:13:55p
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/General io mini REV2/Files to send/Drills
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.0100inch               6
+ D11      draw      0.0010inch             278
+ D12      draw      0.0000inch               4
+

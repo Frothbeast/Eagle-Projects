@@ -1,0 +1,45 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/Flasher/Files to send/Top Solder mask.gpi
+
+ Date              :  8/05/2012 11:38:36a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/Flasher/Files to send/Top Solder mask
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      rectangle 0.0940inch x 0.0500inch     6
+ D11      rectangle 0.0631inch x 0.1458inch     2
+ D12      rectangle 0.0790inch x 0.0710inch     8
+ D13      rectangle 0.0500inch x 0.0940inch     3
+ D14      rectangle 0.1458inch x 0.0631inch     1
+ D15      rectangle 0.0867inch x 0.0946inch     4
+ D16      oval      0.0680inch x 0.1280inch     9
+ D17      round     0.1340inch               3
+ D18      round     0.0476inch               4
+

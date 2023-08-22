@@ -1,0 +1,82 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/General_IO Rev 2/Files to send/Top Silk.gpi
+
+ Date              :  6/08/2010 08:39:23a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/General_IO Rev 2/Files to send/Top Silk
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.0060inch            1427
+ D11      draw      0.0040inch            1678
+ D12      draw      0.0020inch              77
+ D13      draw      0.0240inch               1
+ D14      draw      0.0080inch              72
+ D15      rectangle 0.0730inch x 0.1260inch    24
+ D16      rectangle 0.0730inch x 0.0340inch    72
+ D17      round     0.0200inch              12
+ D18      rectangle 0.0300inch x 0.4200inch    10
+ D19      rectangle 0.0200inch x 0.0750inch    20
+ D20      rectangle 0.0200inch x 0.0300inch    20
+ D21      rectangle 0.0200inch x 0.0700inch    33
+ D22      draw      0.0050inch             964
+ D23      rectangle 0.0660inch x 0.0220inch    28
+ D24      draw      0.0030inch            1843
+ D25      rectangle 0.0600inch x 0.0200inch    28
+ D26      draw      0.0070inch             238
+ D27      draw      0.0010inch              68
+ D28      draw      0.0001inch              60
+ D29      rectangle 0.0220inch x 0.0660inch    84
+ D30      rectangle 0.1024inch x 0.0295inch    12
+ D31      rectangle 0.0295inch x 0.1024inch     8
+ D32      rectangle 0.0500inch x 0.0750inch     2
+ D33      rectangle 0.0300inch x 0.0700inch     3
+ D34      rectangle 0.0500inch x 0.0300inch     2
+ D35      rectangle 0.0374inch x 0.0354inch     4
+ D36      square    0.0200inch              30
+ D37      rectangle 0.1260inch x 0.0730inch     2
+ D38      rectangle 0.0340inch x 0.0730inch     6
+ D39      rectangle 0.0750inch x 0.0500inch     2
+ D40      rectangle 0.0700inch x 0.0300inch     3
+ D41      rectangle 0.0300inch x 0.0500inch     2
+ D42      rectangle 0.0700inch x 0.0200inch     3
+ D43      square    0.0079inch              11
+ D44      rectangle 0.0098inch x 0.0138inch     1
+ D45      rectangle 0.0472inch x 0.0039inch     2
+ D46      rectangle 0.0059inch x 0.0039inch     2
+ D47      rectangle 0.0098inch x 0.0059inch     1
+ D48      draw      0.0200inch               4
+ D49      rectangle 0.0200inch x 0.0100inch     4
+ D50      rectangle 0.0138inch x 0.0098inch    10
+ D51      rectangle 0.0039inch x 0.0472inch    20
+ D52      rectangle 0.0039inch x 0.0059inch    20
+ D53      rectangle 0.0059inch x 0.0098inch    10
+ D54      rectangle 0.0193inch x 0.0433inch    16
+ D55      rectangle 0.0823inch x 0.0189inch    16
+

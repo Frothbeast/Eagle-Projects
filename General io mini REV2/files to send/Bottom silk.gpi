@@ -1,0 +1,56 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/General io mini REV2/Files to send/Bottom silk.gpi
+
+ Date              :  3/04/2013 04:13:58p
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/General io mini REV2/Files to send/Bottom silk
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.0050inch             272
+ D11      draw      0.0040inch             699
+ D12      draw      0.0020inch             357
+ D13      draw      0.0060inch             613
+ D14      draw      0.0030inch            1191
+ D15      draw      0.0010inch             189
+ D16      rectangle 0.0600inch x 0.0200inch    28
+ D17      draw      0.0070inch             155
+ D18      rectangle 0.0660inch x 0.0220inch    42
+ D19      rectangle 0.0374inch x 0.0354inch     2
+ D20      draw      0.0001inch               2
+ D21      rectangle 0.0433inch x 0.0193inch    16
+ D22      draw      0.0080inch              10
+ D23      rectangle 0.1024inch x 0.0295inch    24
+ D24      rectangle 0.1000inch x 0.0200inch    10
+ D25      rectangle 0.0940inch x 0.0350inch     5
+ D26      draw      0.0100inch              15
+ D27      square    0.0200inch               5
+ D28      rectangle 0.0210inch x 0.0860inch     2
+ D29      rectangle 0.0217inch x 0.1496inch     1
+

@@ -1,0 +1,45 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/fet array for transmission sorter/Files to send/Bottom silk.gpi
+
+ Date              :  5/20/2012 09:53:39a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/fet array for transmission sorter/Files to send/Bottom silk
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.0060inch             252
+ D11      rectangle 0.0730inch x 0.1260inch    64
+ D12      rectangle 0.0730inch x 0.0340inch   192
+ D13      draw      0.0080inch             128
+ D14      draw      0.0040inch            3392
+ D15      rectangle 0.0295inch x 0.1024inch     2
+ D16      rectangle 0.0720inch x 0.0230inch    48
+ D17      rectangle 0.0230inch x 0.0720inch    16
+ D18      draw      0.0050inch              40
+

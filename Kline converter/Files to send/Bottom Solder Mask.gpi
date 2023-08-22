@@ -1,0 +1,40 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/Kline converter/Files to send/Bottom Solder Mask.gpi
+
+ Date              :  2/12/2010 10:44:21a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/Kline converter/Files to send/Bottom Solder Mask
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      oval      0.0680inch x 0.1280inch     7
+ D11      oval      0.1280inch x 0.0680inch     3
+ D12      octagon   0.0640inch               2
+ D13      round     0.1340inch               2
+

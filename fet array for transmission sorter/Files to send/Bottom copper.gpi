@@ -1,0 +1,51 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/fet array for transmission sorter/Files to send/Bottom copper.gpi
+
+ Date              :  5/20/2012 09:53:38a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/fet array for transmission sorter/Files to send/Bottom copper
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      rectangle 0.0860inch x 0.0420inch    48
+ D11      rectangle 0.0551inch x 0.1378inch    16
+ D12      oval      0.0600inch x 0.1200inch     3
+ D13      oval      0.1650inch x 0.0825inch     2
+ D14      rectangle 0.0630inch x 0.1063inch     2
+ D15      rectangle 0.0787inch x 0.0630inch    48
+ D16      rectangle 0.0630inch x 0.0787inch    16
+ D17      oval      0.1417inch x 0.0709inch    16
+ D18      oval      0.1040inch x 0.0520inch    56
+ D19      oval      0.0709inch x 0.1417inch    16
+ D20      rectangle 0.0880inch x 0.0480inch    48
+ D21      rectangle 0.0866inch x 0.1417inch    16
+ D22      oval      0.1200inch x 0.0600inch    48
+ D23      draw      0.0160inch             634
+ D24      square    0.0396inch              42
+

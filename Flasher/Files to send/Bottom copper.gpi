@@ -1,0 +1,40 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/Flasher/Files to send/Bottom copper.gpi
+
+ Date              :  8/05/2012 11:38:36a
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/Flasher/Files to send/Bottom copper
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      oval      0.0600inch x 0.1200inch     9
+ D11      round     0.0396inch               4
+ D12      draw      0.0400inch               8
+ D13      draw      0.0500inch              13
+

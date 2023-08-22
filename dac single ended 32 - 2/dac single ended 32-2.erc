@@ -1,0 +1,17 @@
+EAGLE Version 4.13 Copyright (c) 1988-2004 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.13/projects/dac single ended 32 - 2/dac single ended 32-2.sch at  5/06/2012 07:50:53a
+
+WARNING: Sheet 1/1: POWER Pin IC1 V- connected to -15V
+WARNING: Sheet 1/1: POWER Pin IC1 V+ connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC2 V- connected to -15V
+WARNING: Sheet 1/1: POWER Pin IC2 V+ connected to +5V
+
+Elements not found in schematic:
+
+  JP1
+
+ERROR: Board and schematic are not consistent!
+
+    1 errors
+    4 warnings
