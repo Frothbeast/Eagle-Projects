@@ -1,0 +1,54 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.13/projects/big red/Top copper.gpi
+
+ Date              :  4/30/2009 02:21:52p
+ Plotfile          : C:/Program Files/EAGLE-4.13/projects/big red/Top copper
+ Apertures         : generated: C:/Program Files/EAGLE-4.13/projects/big red/Top copper.whl
+ Device            : Gerber photoplotter with automatic aperture wheel generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.3
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.0080inch             112
+ D11      oval      0.0520inch x 0.1040inch    46
+ D12      round     0.0515inch              10
+ D13      rectangle 0.0591inch x 0.1142inch     2
+ D14      rectangle 0.0551inch x 0.0709inch    14
+ D15      oval      0.1200inch x 0.0600inch     6
+ D16      rectangle 0.0354inch x 0.0571inch     2
+ D17      rectangle 0.0827inch x 0.0571inch     1
+ D18      oval      0.1040inch x 0.0520inch     2
+ D19      oval      0.0600inch x 0.1200inch     8
+ D20      rectangle 0.0472inch x 0.0551inch     6
+ D21      rectangle 0.1378inch x 0.0551inch     2
+ D22      draw      0.0500inch              80
+ D23      draw      0.0100inch              25
+ D24      draw      0.0240inch              73
+ D25      round     0.0400inch              11
+ D26      round     0.0396inch              19
+ D27      square    0.0396inch               1
+

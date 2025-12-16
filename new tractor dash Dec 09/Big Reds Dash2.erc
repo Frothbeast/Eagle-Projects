@@ -1,0 +1,19 @@
+EAGLE Version 4.13 Copyright (c) 1988-2004 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.13/projects/new tractor dash Dec 09/Big Reds Dash2.sch at 12/28/2009 10:37:01p
+
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin U$4G$1 V+ connected to +5V
+WARNING: Sheet 1/1: POWER Pin U$4G$1 V- connected to GND
+WARNING: Sheet 1/1, Net N$6: missing Junction at (3.7 4.2)
+WARNING: Sheet 1/1, Net N$12: missing Junction at (3.5 4.1)
+WARNING: Sheet 1/1, Net N$21: missing Junction at (3.3 4)
+WARNING: Sheet 1/1, Net N$1: missing Junction at (4.1 4.4)
+WARNING: Sheet 1/1, Net N$5: missing Junction at (3.9 4.3)
+
+Board and schematic are consistent
+
+    0 errors
+   10 warnings
