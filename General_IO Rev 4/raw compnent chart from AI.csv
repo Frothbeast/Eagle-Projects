@@ -1,148 +1,148 @@
-Ref Des / Part Name,Type,Pin Number,Description
-CEXTRA,Component,n/a,0.1µF capacitor for extra power regulator.
-OUTPUT1-2,Output/Terminal,RC3,A11 or B11 FET low side drive.
-OUTPUT1-4,Output/Terminal,RC2,A12 or B12 FET low side drive.
-OUTPUT1-6,Output/Terminal,RC1,A13 or B13 FET low side drive.
-OUTPUT1-8,Output/Terminal,RC0,A14 or B14 FET low side drive.
-OUTPUT1-10,Output/Terminal,RB5,A15 or B15 FET low side drive.
-OUTPUT2-2,Output/Terminal,RB4,A16 or B16 FET low side drive.
-OUTPUT2-4,Output/Terminal,RA5,A17 or B17 FET low side drive.
-OUTPUT2-6,Output/Terminal,RA1,A18 or B18 FET low side drive.
-OUTPUT2-8,Output/Terminal,RC5,A19 or B19 FET low side drive.
-OUTPUT2-10,Output/Terminal,RC4,A20 or B20 FET low side drive.
-JP2,Jumper/Connector,n/a,External power connection for high voltage like 24V.
-FBD11,Diode,RC3,Fly back diode for corresponding transistor A11 or B11.
-FBD12,Diode,RC2,Fly back diode for corresponding transistor A12 or B12.
-FBD13,Diode,RC1,Fly back diode for corresponding transistor A13 or B13.
-FBD14,Diode,RC0,Fly back diode for corresponding transistor A14 or B14.
-FBD15,Diode,RB5,Fly back diode for corresponding transistor A15 or B15.
-FBD16,Diode,RB4,Fly back diode for corresponding transistor A16 or B16.
-FBD17,Diode,RA5,Fly back diode for corresponding transistor A17 or B17.
-FBD18,Diode,RA1,Fly back diode for corresponding transistor A18 or B18.
-FBD19,Diode,RC5,Fly back diode for corresponding transistor A19 or B19.
-FBD20,Diode,RC4,Fly back diode for corresponding transistor A20 or B20.
-LEDR11,LED Resistor,RC3,LED resistor for A11 or B11.
-LEDR12,LED Resistor,RC2,LED resistor for A12 or B12.
-LEDR13,LED Resistor,RC1,LED resistor for A13 or B13.
-LEDR14,LED Resistor,RC0,LED resistor for A14 or B14.
-LEDR15,LED Resistor,RB5,LED resistor for A15 or B15.
-LEDR16,LED Resistor,RB4,LED resistor for A16 or B16.
-LEDR17,LED Resistor,RA5,LED resistor for A17 or B17.
-LEDR18,LED Resistor,RA1,LED resistor for A18 or B18.
-LEDR19,LED Resistor,RC5,LED resistor for A19 or B19.
-LEDR20,LED Resistor,RC4,LED resistor for A20 or B20.
-LEDRESEXTRA,LED Resistor,n/a,LED resistor for the extra power LED.
-LEDRESMAIN,LED Resistor,n/a,LED resistor for the main power LED.
-OUTPUT1-1,Output/Terminal,n/a,Low side drive power out.
-OUTPUT1-3,Output/Terminal,n/a,Low side drive power out.
-OUTPUT1-5,Output/Terminal,n/a,Low side drive power out.
-OUTPUT1-7,Output/Terminal,n/a,Low side drive power out.
-OUTPUT1-9,Output/Terminal,n/a,Low side drive power out.
-OUTPUT2-1,Output/Terminal,n/a,Low side drive power out.
-OUTPUT2-3,Output/Terminal,n/a,Low side drive power out.
-OUTPUT2-5,Output/Terminal,n/a,Low side drive power out.
-OUTPUT2-7,Output/Terminal,n/a,Low side drive power out.
-OUTPUT2-9,Output/Terminal,n/a,Low side drive power out.
-PDR11,Resistor,RC3,"RC3/SCK, SCK on MAX232 chip, Manual input to TR-A11 or TR-B11"
-PUR11,Resistor,RC3,"RC3/SCK, SCK on MAX232 chip, Manual input to TR-A11 or TR-B11"
-SER11,Serial,RC3,"RC3/SCK, SCK on MAX232 chip, Manual input to TR-A11 or TR-B11"
-X4-1,Connector/Terminal,RC3,"RC3/SCK, SCK on MAX232 chip, Manual input to TR-A11 or TR-B11."
-PDR12,Resistor,RC2,"RC2, Manual input to TR-A12 or TR-B12"
-PUR12,Resistor,RC2,"RC2, Manual input to TR-A12 or TR-B12"
-SER12,Serial,RC2,"RC2, Manual input to TR-A12 or TR-B12"
-X4-2,Connector/Terminal,RC2,"RC2, Manual input to TR-A12 or TR-B12."
-PDR13,Resistor,RC1,"RC1, Manual input to TR-A13 or TR-B13"
-PUR13,Resistor,RC1,"RC1, Manual input to TR-A13 or TR-B13"
-SER13,Serial,RC1,"RC1, Manual input to TR-A13 or TR-B13"
-X4-3,Connector/Terminal,RC1,"RC1, Manual input to TR-A13 or TR-B13."
-PDR14,Resistor,RC0,"RC0, Manual input to TR-A14 or TR-B14"
-PUR14,Resistor,RC0,"RC0, Manual input to TR-A14 or TR-B14"
-SER14,Serial,RC0,"RC0, Manual input to TR-A14 or TR-B14"
-X4-4,Connector/Terminal,RC0,"RC0, Manual input to TR-A14 or TR-B14."
-PDR15,Resistor,RB5,"RB5, Manual input to TR-A15 or TR-B15"
-PUR15,Resistor,RB5,"RB5, Manual input to TR-A15 or TR-B15"
-SER15,Serial,RB5,"RB5, Manual input to TR-A15 or TR-B15"
-X4-5,Connector/Terminal,RB5,"RB5, Manual input to TR-A15 or TR-B15."
-PDR16,Resistor,RB4,"RB4, jumper connection B4SER to use serial jumper, Manual input to TR-A16 or TR-B16"
-PUR16,Resistor,RB4,"RB4, jumper connection B4SER to use serial jumper, Manual input to TR-A16 or TR-B16"
-SER16,Serial,RB4,"RB4, jumper connection B4SER to use serial jumper, Manual input to TR-A16 or TR-B16"
-X4-6,Connector/Terminal,RB4,"RB4, jumper connection B4SER to use serial jumper, Manual input to TR-A16 or TR-B16."
-PDR17,Resistor,RA5,"RA5/AN5, Manual input to TR-A17 or TR-B17"
-PUR17,Resistor,RA5,"RA5/AN5, Manual input to TR-A17 or TR-B17"
-SER17,Serial,RA5,"RA5/AN5, Manual input to TR-A17 or TR-B17"
-X4-7,Connector/Terminal,RA5,"RA5/AN5, Manual input to TR-A17 or TR-B17."
-PDR18,Resistor,RA1,"RA1, IN/OUT/OW (One wire with power and gnd), R2out on MAX232, Manual input to TR-A18 or TR-B18"
-PUR18,Resistor,RA1,"RA1, IN/OUT/OW (One wire with power and gnd), R2out on MAX232, Manual input to TR-A18 or TR-B18"
-SER18,Serial,RA1,"RA1, IN/OUT/OW (One wire with power and gnd), R2out on MAX232, Manual input to TR-A18 or TR-B18"
-X4-8,Connector/Terminal,RA1,"RA1, IN/OUT/OW (One wire with power and gnd), R2out on MAX232, Manual input to TR-A18 or TR-B18."
-PDR19,Resistor,RC5,"RC5, Manual input to TR-A19 or TR-B19"
-PUR19,Resistor,RC5,"RC5, Manual input to TR-A19 or TR-B19"
-SER19,Serial,RC5,"RC5, Manual input to TR-A19 or TR-B19"
-X4-9,Connector/Terminal,RC5,"RC5, Manual input to TR-A19 or TR-B19."
-PDR20,Resistor,RC4,"RC4, SO on MAX6674 T/C chip, Manual input to TR-A20 or TR-B20"
-PUR20,Resistor,RC4,"RC4, SO on MAX6674 T/C chip, Manual input to TR-A20 or TR-B20"
-SER20,Serial,RC4,"RC4, SO on MAX6674 T/C chip, Manual input to TR-A20 or TR-B20"
-X4-10,Connector/Terminal,RC4,"RC4, SO on MAX6674 T/C chip, Manual input to TR-A20 or TR-B20."
-TR-A111,Transistor/Part,RC6/RB4,MOSFET to invert TTL serial output via C6 or B4 depending on which jumper is soldered.
-LED11,LED,RC3,Output indicator for A11 or B11.
-LED12,LED,RC2,Output indicator for A12 or B12.
-LED13,LED,RC1,Output indicator for A13 or B13.
-LED14,LED,RC0,Output indicator for A14 or B14.
-LED15,LED,RB5,Output indicator for A15 or B15.
-LED16,LED,RB4,Output indicator for A16 or B16.
-LED17,LED,RA5,Output indicator for A17 or B17.
-LED18,LED,RA1,Output indicator for A18 or B18.
-LED19,LED,RC5,Output indicator for A19 or B19.
-LED20,LED,RC4,Output indicator for A20 or B20.
-PDR8,Resistor,RA0,RA0
-PUR8,Resistor,RA0,RA0
-SER8,Serial,RA0,RA0
-X3-8,Connector/Terminal,RA0,RA0.
-PDR5,Resistor,RA2,"RA2/AN2, T2in MAX232"
-PUR5,Resistor,RA2,"RA2/AN2, T2in MAX232"
-SER5,Serial,RA2,"RA2/AN2, T2in MAX232"
-X3-5,Connector/Terminal,RA2,"RA2/AN2, T2in MAX232."
-PDR4,Resistor,RA3,"RA3/AN3, CS for max6674"
-PUR4,Resistor,RA3,"RA3/AN3, CS for max6674"
-SER4,Serial,RA3,"RA3/AN3, CS for max6674"
-X3-4,Connector/Terminal,RA3,"Ra3/AN3, CS on Max 6674 T/C chip."
-PDR3,Resistor,RA4,RA4/T0CKI
-PUR3,Resistor,RA4,RA4/T0CKI
-SER3,Serial,RA4,RA4/T0CKI
-X3-3,Connector/Terminal,RA4,RA4/T0CKI.
-X3-2,Connector/Terminal,RB0,RB0/INT.
-PDR6,Resistor,RB1,"RB1, SCL for timer or memory chips"
-PUR6,Resistor,RB1,"RB1, SCL for timer or memory chips"
-SER6,Serial,RB1,"RB1, SCL for timer or memory chips"
-X3-6,Connector/Terminal,RB1,"RB1, SCL for timer or memory chips."
-X3-1,Connector/Terminal,RB2,RB2.
-PDR7,Resistor,RB3,"RB3, SDA for timer or memory chips"
-PUR7,Resistor,RB3,"RB3, SDA for timer or memory chips"
-SER7,Serial,RB3,"RB3, SDA for timer or memory chips"
-X3-7,Connector/Terminal,RB3,"RB3, SDA for memory and timer chip."
-PDR2,Resistor,RB6,"RB6, ICD_CLK"
-PUR2,Resistor,RB6,"RB6, ICD_CLK"
-SER2,Serial,RB6,"RB6, ICD_CLK"
-PDR1,Resistor,RB7,"RB7, ICD_DAT, T1IN on MAX232"
-PUR1,Resistor,RB7,"RB7, ICD_DAT, T1IN on MAX232"
-SER1,Serial,RB7,"RB7, ICD_DAT, T1IN on MAX232"
-PDR9,Resistor,RC6,"RC6, jumper connection C6SER to use SERIAL jumper"
-PUR9,Resistor,RC6,"RC6, jumper connection C6SER to use SERIAL jumper"
-SER9,Serial,RC6,"RC6, jumper connection C6SER to use SERIAL jumper"
-X3-9,Connector/Terminal,RC6,"RC6, jumper connection C6SER to use SERIAL jumper."
-PDR10,Resistor,RC7,"RC7, R1out MAX232"
-PUR10,Resistor,RC7,"RC7, R1out MAX232"
-SER10,Serial,RC7,"RC7, R1out MAX232"
-X3-10,Connector/Terminal,RC7,"RC7, R1out MAX232."
-PUOR11,Resistor,RC3,Pull up output resistor for A11 or B11.
-PUOR12,Resistor,RC2,Pull up output resistor for A12 or B12.
-PUOR13,Resistor,RC1,Pull up output resistor for A13 or B13.
-PUOR14,Resistor,RC0,Pull up output resistor for A14 or B14.
-PUOR15,Resistor,RB5,Pull up output resistor for A15 or B15.
-PUOR16,Resistor,RB4,Pull up output resistor for A16 or B16.
-PUOR17,Resistor,RA5,Pull up output resistor for A17 or B17.
-PUOR18,Resistor,RA1,Pull up output resistor for A18 or B18.
-PUOR19,Resistor,RC5,Pull up output resistor for A19 or B19.
-PUOR20,Resistor,RC4,Pull up output resistor for A20 or B20.
-PIC18F2580,Microcontroller,n/a,The main microcontroller for all pin mapping.
-32768kHz,Crystal/Oscillator,n/a,to RTC Chip.
+Ref Des / Part Name,Type,Pin Number,Description,X
+CEXTRA,Component,n/a,0.1µF capacitor for extra power regulator.,X
+OUTPUT1-2,Output/Terminal,RC3,A11 or B11 FET low side drive.,X
+OUTPUT1-4,Output/Terminal,RC2,A12 or B12 FET low side drive.,X
+OUTPUT1-6,Output/Terminal,RC1,A13 or B13 FET low side drive.,X
+OUTPUT1-8,Output/Terminal,RC0,A14 or B14 FET low side drive.,X
+OUTPUT1-10,Output/Terminal,RB5,A15 or B15 FET low side drive.,X
+OUTPUT2-2,Output/Terminal,RB4,A16 or B16 FET low side drive.,X
+OUTPUT2-4,Output/Terminal,RA5,A17 or B17 FET low side drive.,X
+OUTPUT2-6,Output/Terminal,RA1,A18 or B18 FET low side drive.,X
+OUTPUT2-8,Output/Terminal,RC5,A19 or B19 FET low side drive.,X
+OUTPUT2-10,Output/Terminal,RC4,A20 or B20 FET low side drive.,X
+JP2,Jumper/Connector,n/a,External power connection for high voltage like 24V.,X
+FBD11,Diode,RC3,Fly back diode for corresponding transistor A11 or B11.,X
+FBD12,Diode,RC2,Fly back diode for corresponding transistor A12 or B12.,X
+FBD13,Diode,RC1,Fly back diode for corresponding transistor A13 or B13.,X
+FBD14,Diode,RC0,Fly back diode for corresponding transistor A14 or B14.,X
+FBD15,Diode,RB5,Fly back diode for corresponding transistor A15 or B15.,X
+FBD16,Diode,RB4,Fly back diode for corresponding transistor A16 or B16.,X
+FBD17,Diode,RA5,Fly back diode for corresponding transistor A17 or B17.,X
+FBD18,Diode,RA1,Fly back diode for corresponding transistor A18 or B18.,X
+FBD19,Diode,RC5,Fly back diode for corresponding transistor A19 or B19.,X
+FBD20,Diode,RC4,Fly back diode for corresponding transistor A20 or B20.,X
+LEDR11,LED Resistor,RC3,LED resistor for A11 or B11.,X
+LEDR12,LED Resistor,RC2,LED resistor for A12 or B12.,X
+LEDR13,LED Resistor,RC1,LED resistor for A13 or B13.,X
+LEDR14,LED Resistor,RC0,LED resistor for A14 or B14.,X
+LEDR15,LED Resistor,RB5,LED resistor for A15 or B15.,X
+LEDR16,LED Resistor,RB4,LED resistor for A16 or B16.,X
+LEDR17,LED Resistor,RA5,LED resistor for A17 or B17.,X
+LEDR18,LED Resistor,RA1,LED resistor for A18 or B18.,X
+LEDR19,LED Resistor,RC5,LED resistor for A19 or B19.,X
+LEDR20,LED Resistor,RC4,LED resistor for A20 or B20.,X
+LEDRESEXTRA,LED Resistor,n/a,LED resistor for the extra power LED.,X
+LEDRESMAIN,LED Resistor,n/a,LED resistor for the main power LED.,X
+OUTPUT1-1,Output/Terminal,RC3,Low side drive power out.,X
+OUTPUT1-3,Output/Terminal,RC2,Low side drive power out.,X
+OUTPUT1-5,Output/Terminal,RC1,Low side drive power out.,X
+OUTPUT1-7,Output/Terminal,RC0,Low side drive power out.,X
+OUTPUT1-9,Output/Terminal,RB5,Low side drive power out.,X
+OUTPUT2-1,Output/Terminal,RB4,Low side drive power out.,X
+OUTPUT2-3,Output/Terminal,RA5,Low side drive power out.,X
+OUTPUT2-5,Output/Terminal,RA1,Low side drive power out.,X
+OUTPUT2-7,Output/Terminal,RC5,Low side drive power out.,X
+OUTPUT2-9,Output/Terminal,RC4,Low side drive power out.,X
+PDR11,Resistor,RC3,"RC3/SCK, SCK on MAX232 chip, Manual input to TR-A11 or TR-B11",X
+PUR11,Resistor,RC3,"RC3/SCK, SCK on MAX232 chip, Manual input to TR-A11 or TR-B11",X
+SER11,Serial,RC3,"RC3/SCK, SCK on MAX232 chip, Manual input to TR-A11 or TR-B11",X
+X4-1,Connector/Terminal,RC3,"RC3/SCK, SCK on MAX232 chip, Manual input to TR-A11 or TR-B11.",X
+PDR12,Resistor,RC2,"RC2, Manual input to TR-A12 or TR-B12",X
+PUR12,Resistor,RC2,"RC2, Manual input to TR-A12 or TR-B12",X
+SER12,Serial,RC2,"RC2, Manual input to TR-A12 or TR-B12",X
+X4-2,Connector/Terminal,RC2,"RC2, Manual input to TR-A12 or TR-B12.",X
+PDR13,Resistor,RC1,"RC1, Manual input to TR-A13 or TR-B13",X
+PUR13,Resistor,RC1,"RC1, Manual input to TR-A13 or TR-B13",X
+SER13,Serial,RC1,"RC1, Manual input to TR-A13 or TR-B13",X
+X4-3,Connector/Terminal,RC1,"RC1, Manual input to TR-A13 or TR-B13.",X
+PDR14,Resistor,RC0,"RC0, Manual input to TR-A14 or TR-B14",X
+PUR14,Resistor,RC0,"RC0, Manual input to TR-A14 or TR-B14",X
+SER14,Serial,RC0,"RC0, Manual input to TR-A14 or TR-B14",X
+X4-4,Connector/Terminal,RC0,"RC0, Manual input to TR-A14 or TR-B14.",X
+PDR15,Resistor,RB5,"RB5, Manual input to TR-A15 or TR-B15",X
+PUR15,Resistor,RB5,"RB5, Manual input to TR-A15 or TR-B15",X
+SER15,Serial,RB5,"RB5, Manual input to TR-A15 or TR-B15",X
+X4-5,Connector/Terminal,RB5,"RB5, Manual input to TR-A15 or TR-B15.",X
+PDR16,Resistor,RB4,"RB4, jumper connection B4SER to use serial jumper, Manual input to TR-A16 or TR-B16",X
+PUR16,Resistor,RB4,"RB4, jumper connection B4SER to use serial jumper, Manual input to TR-A16 or TR-B16",X
+SER16,Serial,RB4,"RB4, jumper connection B4SER to use serial jumper, Manual input to TR-A16 or TR-B16",X
+X4-6,Connector/Terminal,RB4,"RB4, jumper connection B4SER to use serial jumper, Manual input to TR-A16 or TR-B16.",X
+PDR17,Resistor,RA5,"RA5/AN5, Manual input to TR-A17 or TR-B17",X
+PUR17,Resistor,RA5,"RA5/AN5, Manual input to TR-A17 or TR-B17",X
+SER17,Serial,RA5,"RA5/AN5, Manual input to TR-A17 or TR-B17",X
+X4-7,Connector/Terminal,RA5,"RA5/AN5, Manual input to TR-A17 or TR-B17.",X
+PDR18,Resistor,RA1,"RA1, IN/OUT/OW (One wire with power and gnd), R2out on MAX232, Manual input to TR-A18 or TR-B18",X
+PUR18,Resistor,RA1,"RA1, IN/OUT/OW (One wire with power and gnd), R2out on MAX232, Manual input to TR-A18 or TR-B18",X
+SER18,Serial,RA1,"RA1, IN/OUT/OW (One wire with power and gnd), R2out on MAX232, Manual input to TR-A18 or TR-B18",X
+X4-8,Connector/Terminal,RA1,"RA1, IN/OUT/OW (One wire with power and gnd), R2out on MAX232, Manual input to TR-A18 or TR-B18.",X
+PDR19,Resistor,RC5,"RC5, Manual input to TR-A19 or TR-B19",X
+PUR19,Resistor,RC5,"RC5, Manual input to TR-A19 or TR-B19",X
+SER19,Serial,RC5,"RC5, Manual input to TR-A19 or TR-B19",X
+X4-9,Connector/Terminal,RC5,"RC5, Manual input to TR-A19 or TR-B19.",X
+PDR20,Resistor,RC4,"RC4, SO on MAX6674 T/C chip, Manual input to TR-A20 or TR-B20",X
+PUR20,Resistor,RC4,"RC4, SO on MAX6674 T/C chip, Manual input to TR-A20 or TR-B20",X
+SER20,Serial,RC4,"RC4, SO on MAX6674 T/C chip, Manual input to TR-A20 or TR-B20",X
+X4-10,Connector/Terminal,RC4,"RC4, SO on MAX6674 T/C chip, Manual input to TR-A20 or TR-B20.",X
+TR-A111,Transistor/Part,RC6/RB4,MOSFET to invert TTL serial output via C6 or B4 depending on which jumper is soldered.,X
+LED11,LED,RC3,Output indicator for A11 or B11.,X
+LED12,LED,RC2,Output indicator for A12 or B12.,X
+LED13,LED,RC1,Output indicator for A13 or B13.,X
+LED14,LED,RC0,Output indicator for A14 or B14.,X
+LED15,LED,RB5,Output indicator for A15 or B15.,X
+LED16,LED,RB4,Output indicator for A16 or B16.,X
+LED17,LED,RA5,Output indicator for A17 or B17.,X
+LED18,LED,RA1,Output indicator for A18 or B18.,X
+LED19,LED,RC5,Output indicator for A19 or B19.,X
+LED20,LED,RC4,Output indicator for A20 or B20.,X
+C8/PDR8,Capacitor,RA0,RA0,X
+PUR8,Resistor,RA0,RA0,X
+SER8,Serial,RA0,RA0,
+X3-8,Connector/Terminal,RA0,RA0.,
+PDR5,Resistor,RA2,"RA2/AN2, T2in MAX232",
+PUR5,Resistor,RA2,"RA2/AN2, T2in MAX232",
+SER5,Serial,RA2,"RA2/AN2, T2in MAX232",
+X3-5,Connector/Terminal,RA2,"RA2/AN2, T2in MAX232.",
+PDR4,Resistor,RA3,"RA3/AN3, CS for max6674",
+PUR4,Resistor,RA3,"RA3/AN3, CS for max6674",
+SER4,Serial,RA3,"RA3/AN3, CS for max6674",
+X3-4,Connector/Terminal,RA3,"Ra3/AN3, CS on Max 6674 T/C chip.",
+PDR3,Resistor,RA4,RA4/T0CKI,
+PUR3,Resistor,RA4,RA4/T0CKI,
+SER3,Serial,RA4,RA4/T0CKI,
+X3-3,Connector/Terminal,RA4,RA4/T0CKI.,
+X3-2,Connector/Terminal,RB0,RB0/INT.,
+PDR6,Resistor,RB1,"RB1, SCL for timer or memory chips",
+PUR6,Resistor,RB1,"RB1, SCL for timer or memory chips",
+SER6,Serial,RB1,"RB1, SCL for timer or memory chips",
+X3-6,Connector/Terminal,RB1,"RB1, SCL for timer or memory chips.",
+X3-1,Connector/Terminal,RB2,RB2.,
+PDR7,Resistor,RB3,"RB3, SDA for timer or memory chips",
+PUR7,Resistor,RB3,"RB3, SDA for timer or memory chips",
+SER7,Serial,RB3,"RB3, SDA for timer or memory chips",
+X3-7,Connector/Terminal,RB3,"RB3, SDA for memory and timer chip.",
+PDR2,Resistor,RB6,"RB6, ICD_CLK",
+PUR2,Resistor,RB6,"RB6, ICD_CLK",
+SER2,Serial,RB6,"RB6, ICD_CLK",
+PDR1,Resistor,RB7,"RB7, ICD_DAT, T1IN on MAX232",
+PUR1,Resistor,RB7,"RB7, ICD_DAT, T1IN on MAX232",
+SER1,Serial,RB7,"RB7, ICD_DAT, T1IN on MAX232",
+PDR9,Resistor,RC6,"RC6, jumper connection C6SER to use SERIAL jumper",
+PUR9,Resistor,RC6,"RC6, jumper connection C6SER to use SERIAL jumper",
+SER9,Serial,RC6,"RC6, jumper connection C6SER to use SERIAL jumper",
+X3-9,Connector/Terminal,RC6,"RC6, jumper connection C6SER to use SERIAL jumper.",
+PDR10,Resistor,RC7,"RC7, R1out MAX232",
+PUR10,Resistor,RC7,"RC7, R1out MAX232",
+SER10,Serial,RC7,"RC7, R1out MAX232",
+X3-10,Connector/Terminal,RC7,"RC7, R1out MAX232.",
+PUOR11,Resistor,RC3,Pull up output resistor for A11 or B11.,
+PUOR12,Resistor,RC2,Pull up output resistor for A12 or B12.,
+PUOR13,Resistor,RC1,Pull up output resistor for A13 or B13.,
+PUOR14,Resistor,RC0,Pull up output resistor for A14 or B14.,
+PUOR15,Resistor,RB5,Pull up output resistor for A15 or B15.,
+PUOR16,Resistor,RB4,Pull up output resistor for A16 or B16.,
+PUOR17,Resistor,RA5,Pull up output resistor for A17 or B17.,
+PUOR18,Resistor,RA1,Pull up output resistor for A18 or B18.,
+PUOR19,Resistor,RC5,Pull up output resistor for A19 or B19.,
+PUOR20,Resistor,RC4,Pull up output resistor for A20 or B20.,
+PIC18F2580,Microcontroller,n/a,The main microcontroller for all pin mapping.,
+32768kHz,Crystal/Oscillator,n/a,to RTC Chip.,
