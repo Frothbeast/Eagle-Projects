@@ -96,53 +96,53 @@ LED19,LED,RC5,Output indicator for A19 or B19.,X
 LED20,LED,RC4,Output indicator for A20 or B20.,X
 C8/PDR8,Capacitor,RA0,RA0,X
 PUR8,Resistor,RA0,RA0,X
-SER8,Serial,RA0,RA0,
-X3-8,Connector/Terminal,RA0,RA0.,
-PDR5,Resistor,RA2,"RA2/AN2, T2in MAX232",
-PUR5,Resistor,RA2,"RA2/AN2, T2in MAX232",
-SER5,Serial,RA2,"RA2/AN2, T2in MAX232",
-X3-5,Connector/Terminal,RA2,"RA2/AN2, T2in MAX232.",
-PDR4,Resistor,RA3,"RA3/AN3, CS for max6674",
-PUR4,Resistor,RA3,"RA3/AN3, CS for max6674",
-SER4,Serial,RA3,"RA3/AN3, CS for max6674",
-X3-4,Connector/Terminal,RA3,"Ra3/AN3, CS on Max 6674 T/C chip.",
-PDR3,Resistor,RA4,RA4/T0CKI,
-PUR3,Resistor,RA4,RA4/T0CKI,
-SER3,Serial,RA4,RA4/T0CKI,
-X3-3,Connector/Terminal,RA4,RA4/T0CKI.,
-X3-2,Connector/Terminal,RB0,RB0/INT.,
-PDR6,Resistor,RB1,"RB1, SCL for timer or memory chips",
-PUR6,Resistor,RB1,"RB1, SCL for timer or memory chips",
-SER6,Serial,RB1,"RB1, SCL for timer or memory chips",
-X3-6,Connector/Terminal,RB1,"RB1, SCL for timer or memory chips.",
-X3-1,Connector/Terminal,RB2,RB2.,
-PDR7,Resistor,RB3,"RB3, SDA for timer or memory chips",
-PUR7,Resistor,RB3,"RB3, SDA for timer or memory chips",
-SER7,Serial,RB3,"RB3, SDA for timer or memory chips",
-X3-7,Connector/Terminal,RB3,"RB3, SDA for memory and timer chip.",
-PDR2,Resistor,RB6,"RB6, ICD_CLK",
-PUR2,Resistor,RB6,"RB6, ICD_CLK",
-SER2,Serial,RB6,"RB6, ICD_CLK",
-PDR1,Resistor,RB7,"RB7, ICD_DAT, T1IN on MAX232",
-PUR1,Resistor,RB7,"RB7, ICD_DAT, T1IN on MAX232",
-SER1,Serial,RB7,"RB7, ICD_DAT, T1IN on MAX232",
-PDR9,Resistor,RC6,"RC6, jumper connection C6SER to use SERIAL jumper",
-PUR9,Resistor,RC6,"RC6, jumper connection C6SER to use SERIAL jumper",
-SER9,Serial,RC6,"RC6, jumper connection C6SER to use SERIAL jumper",
-X3-9,Connector/Terminal,RC6,"RC6, jumper connection C6SER to use SERIAL jumper.",
-PDR10,Resistor,RC7,"RC7, R1out MAX232",
-PUR10,Resistor,RC7,"RC7, R1out MAX232",
-SER10,Serial,RC7,"RC7, R1out MAX232",
-X3-10,Connector/Terminal,RC7,"RC7, R1out MAX232.",
-PUOR11,Resistor,RC3,Pull up output resistor for A11 or B11.,
-PUOR12,Resistor,RC2,Pull up output resistor for A12 or B12.,
-PUOR13,Resistor,RC1,Pull up output resistor for A13 or B13.,
-PUOR14,Resistor,RC0,Pull up output resistor for A14 or B14.,
-PUOR15,Resistor,RB5,Pull up output resistor for A15 or B15.,
-PUOR16,Resistor,RB4,Pull up output resistor for A16 or B16.,
-PUOR17,Resistor,RA5,Pull up output resistor for A17 or B17.,
-PUOR18,Resistor,RA1,Pull up output resistor for A18 or B18.,
-PUOR19,Resistor,RC5,Pull up output resistor for A19 or B19.,
-PUOR20,Resistor,RC4,Pull up output resistor for A20 or B20.,
-PIC18F2580,Microcontroller,n/a,The main microcontroller for all pin mapping.,
-32768kHz,Crystal/Oscillator,n/a,to RTC Chip.,
+SER8,Serial,RA0,RA0,X
+X3-8,Connector/Terminal,RA0,RA0.,X
+C5,Capacitor,RA2,"RA2/AN2, T2in MAX232",X
+PUR5,Resistor,RA2,"RA2/AN2, T2in MAX232",X
+SER5,Serial,RA2,"RA2/AN2, T2in MAX232",X
+X3-5,Connector/Terminal,RA2,"RA2/AN2, T2in MAX232.",X
+C4,Capacitor,RA3,"RA3/AN3, CS for max6674",X
+PUR4,Resistor,RA3,"RA3/AN3, CS for max6674",X
+SER4,Serial,RA3,"RA3/AN3, CS for max6674",X
+X3-4,Connector/Terminal,RA3,"Ra3/AN3, CS on Max 6674 T/C chip.",X
+C3,Capacitor,RA4,RA4/T0CKI,X
+PUR3,Resistor,RA4,RA4/T0CKI,X
+SER3,Serial,RA4,RA4/T0CKI,X
+X3-3,Connector/Terminal,RA4,RA4/T0CKI.,X
+X3-2,Connector/Terminal,RB0,RB0/INT.,X
+C6,Capacitor,RB1,"RB1, SCL for timer or memory chips",X
+PUR6,Resistor,RB1,"RB1, SCL for timer or memory chips",X
+SER6,Serial,RB1,"RB1, SCL for timer or memory chips",X
+X3-6,Connector/Terminal,RB1,"RB1, SCL for timer or memory chips.",X
+X3-1,Connector/Terminal,RB2,RB2.,X
+C7,Capacitor,RB3,"RB3, SDA for timer or memory chips",X
+PUR7,Resistor,RB3,"RB3, SDA for timer or memory chips",X
+SER7,Serial,RB3,"RB3, SDA for timer or memory chips",X
+X3-7,Connector/Terminal,RB3,"RB3, SDA for memory and timer chip.",X
+C2,Capacitor,RB6,"RB6, ICD_CLK",X
+PUR2,Resistor,RB6,"RB6, ICD_CLK",X
+SER2,Serial,RB6,"RB6, ICD_CLK",X
+C1,Capacitor,RB7,"RB7, ICD_DAT, T1IN on MAX232",X
+PUR1,Resistor,RB7,"RB7, ICD_DAT, T1IN on MAX232",X
+SER1,Serial,RB7,"RB7, ICD_DAT, T1IN on MAX232",X
+C9,Capacitor,RC6,"RC6, jumper connection C6SER to use SERIAL jumper",X
+PUR9,Resistor,RC6,"RC6, jumper connection C6SER to use SERIAL jumper",X
+SER9,Serial,RC6,"RC6, jumper connection C6SER to use SERIAL jumper",X
+X3-9,Connector/Terminal,RC6,"RC6, jumper connection C6SER to use SERIAL jumper.",X
+C10,Capacitor,RC7,"RC7, R1out MAX232",X
+PUR10,Resistor,RC7,"RC7, R1out MAX232",X
+SER10,Serial,RC7,"RC7, R1out MAX232",X
+X3-10,Connector/Terminal,RC7,"RC7, R1out MAX232.",X
+PUOR11,Resistor,RC3,Pull up output resistor for A11 or B11.,X
+PUOR12,Resistor,RC2,Pull up output resistor for A12 or B12.,X
+PUOR13,Resistor,RC1,Pull up output resistor for A13 or B13.,X
+PUOR14,Resistor,RC0,Pull up output resistor for A14 or B14.,X
+PUOR15,Resistor,RB5,Pull up output resistor for A15 or B15.,X
+PUOR16,Resistor,RB4,Pull up output resistor for A16 or B16.,X
+PUOR17,Resistor,RA5,Pull up output resistor for A17 or B17.,X
+PUOR18,Resistor,RA1,Pull up output resistor for A18 or B18.,X
+PUOR19,Resistor,RC5,Pull up output resistor for A19 or B19.,X
+PUOR20,Resistor,RC4,Pull up output resistor for A20 or B20.,X
+PIC18F2580,Microcontroller,n/a,The main microcontroller for all pin mapping.,X
+Q22,Crystal/Oscillator,n/a,to RTC Chip.,X
